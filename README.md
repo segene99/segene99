@@ -7,11 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" src="./img/linkedin-light.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/segene-cho/#gh-light-mode-only)
-[<img align="left" alt="LinkedIn" src="./img/linkedin-dark.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/segene-cho/#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/segene-cho/#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/segene-cho/#gh-dark-mode-only)
 
-[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:segene99@gmail.com#gh-dark-mode-only)
-[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:segene99@gmail.com#gh-light-mode-only)
+[<img align="left" alt="Mail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26px" style="padding-right:10px;">](mailto:segene99@gmail.com#gh-dark-mode-only)
+[<img align="left" alt="Mail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26px" style="padding-right:10px;">](mailto:segene99@gmail.com#gh-light-mode-only)
 <br>
 
 ### Languages and Tools:
@@ -39,6 +39,6 @@
 - [lojyyc library](https://github.com/segene99/lojyyc) : Lojyyc library is a web service that allows the users to rent books online.
 - [PetMedic](https://github.com/segene99/petmedic) : PetMedic is a web service that allows pet owners to book a reservation on the nearest animal hospital.
 - [MediFace](https://github.com/segene99/MediFace) : Face recognition/verification AI service using deepface which verify the patients and provides the doctor's appointment service.
-- [InSight - in progress](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
+- [InSight - 🚧in progress](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
 - [the-modeep](https://github.com/cv-jaeha) : TOGETHER SMART CITY! Public data analysis for smart cities that live well together.
 <!-- Project:END -->
