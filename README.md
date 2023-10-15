@@ -39,6 +39,5 @@
 - [lojyyc library](https://github.com/segene99/lojyyc) : Lojyyc library is a web service that allows the users to rent books online.
 - [PetMedic](https://github.com/segene99/petmedic) : PetMedic is a web service that allows pet owners to book a reservation on the nearest animal hospital.
 - [MediFace](https://github.com/segene99/MediFace) : Face recognition/verification AI service using deepface which verify the patients and provides the doctor's appointment service.
-- [InSight - 🚧in progress](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
-- [the-modeep](https://github.com/cv-jaeha) : TOGETHER SMART CITY! Public data analysis for smart cities that live well together.
+- [InSight 🚧 WIP 🚧](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
 <!-- Project:END -->
