@@ -35,9 +35,8 @@
 ## 🦾&nbsp;&nbsp;Project
 
 <!-- Project:START -->
-
-- [lojyyc library](https://github.com/segene99/lojyyc) : Lojyyc library is a web service that allows the users to rent books online.
-- [PetMedic](https://github.com/segene99/petmedic) : PetMedic is a web service that allows pet owners to book a reservation on the nearest animal hospital.
-- [MediFace](https://github.com/segene99/MediFace) : Face recognition/verification AI service using deepface which verify the patients and provides the doctor's appointment service.
-- [InSight 🚧 WIP 🚧](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
+- [InSight](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on a browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
+- [MediFace](https://github.com/segene99/MediFace) : Face recognition/verification AI service using deepface which verifies the patients and provides the doctor's appointment service.
+- [PetMedic](https://github.com/segene99/petmedic) : PetMedic is a web service that allows pet owners to book a reservation at the nearest animal hospital.
+- [lojyyc library](https://github.com/segene99/lojyyc) : Lojyyc library is a web service that allows users to rent books online.
 <!-- Project:END -->
