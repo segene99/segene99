@@ -35,7 +35,7 @@
 ## 🦾&nbsp;&nbsp;Project
 
 <!-- Project:START -->
-- [InSight](https://github.com/segene99/insight) : Google extension for blind people which supports their shopping experience on a browser by using GPT API, Google OCR API, WhiperAI API, and RAG search engine.
+- [InSight](https://github.com/segene99/insight) : Google extension for blind people which allow them to search item details on Chrome browser
 - [MediFace](https://github.com/segene99/MediFace) : Face recognition/verification AI service using deepface which verifies the patients and provides the doctor's appointment service.
 - [PetMedic](https://github.com/segene99/petmedic) : PetMedic is a web service that allows pet owners to book a reservation at the nearest animal hospital.
 - [lojyyc library](https://github.com/segene99/lojyyc) : Lojyyc library is a web service that allows users to rent books online.
