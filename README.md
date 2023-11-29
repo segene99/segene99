@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Personal AI agent development
 - 🌱 I’m currently learning RAG search engine
 - 👯 I’m looking to collaborate on AI service development
-- ⚡ Fun fact: I worked with many cosmetic influencers
 
 ### Connect with me:
 
